@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Benedict Wambua
 
-<!--
-**benedict-svg/benedict-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Human Resources Management at JKUAT.
+- I'm interested in Landscaping, gardening and graphic design.
+- I'm looking to collaborate on AI related projects in my areas of interest.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Website development (https://jabulanihq-qem2ydt8.manus.space/) — a website for a event planning company to increase their customers experience.
+
+## How to Reach Me
+- Email: benifocuslandscaping@gmail.com
+- LinkedIn: https://www.linkedin.com/in/benedict-wambua
