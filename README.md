@@ -10,7 +10,7 @@
 - JavaScript
 
 ## Current Projects
-- Website development (https://jabulanihq-qem2ydt8.manus.space/) — a website for a event planning company to increase their customers experience.
+- Website development (https://jabulanihq-qem2ydt8.manus.space/) — a website for a event planning company to improve their clients experience.
 
 ## How to Reach Me
 - Email: benifocuslandscaping@gmail.com
